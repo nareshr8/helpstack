@@ -9,6 +9,6 @@ modules = ["help_stack.py"]
 
 doc_url = "https://nareshr8.github.io/helpstack/"
 
-git_url = "https://github.com/nareshr8/helpstack/tree/main/"
+git_url = "https://github.com/nareshr8/helpstack/tree/master/"
 
 def custom_doc_links(name): return None
