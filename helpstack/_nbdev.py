@@ -7,8 +7,8 @@ index = {"help_stack": "00_help_stack.ipynb",
 
 modules = ["help_stack.py"]
 
-doc_url = "https://pages.github.walmart.com/pages/n0r033u/helpstack/"
+doc_url = "https://nareshr8.github.io/helpstack/"
 
-git_url = "https://gecgithub01.walmart.com/n0r033u/helpstack/tree/master/"
+git_url = "https://github.com/nareshr8/helpstack/tree/main/"
 
 def custom_doc_links(name): return None
