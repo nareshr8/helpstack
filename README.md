@@ -1,4 +1,4 @@
-# HelpStack
+# HelpStack[![Downloads](https://static.pepy.tech/personalized-badge/helpstack?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/helpstack)
 > The Library to help developers who fight with the stack trace of errors
 
 
